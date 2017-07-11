@@ -15,7 +15,7 @@
 "READ_RECEIPTS_DESC" = "Desactivar marcado de lectura pero seguir viendo los marcados de sus contactos. Se puede activar/desactivar los marcados de lectura para contactos especificos para forzar/nunca o seleccionarlo en su perfil.";
 "NEVER_SEND_RECEIPTS_TO" = "Nunca enviar recibidos a...";
 "FORCE_SEND_RECEIPTS_TO" = "Forzar enviar recibidos a...";
-"FORCE_VOICE_MESSAGES_RECEIPTS" = "Force Send Voice Receipts";
+"FORCE_VOICE_MESSAGES_RECEIPTS" = "Forzar mensajes de voz recibidos";
 "FORCE_RECEIPTS_ON" = "Forzar recibidos...";
 "FORCE_RECEIPTS_ON_MESSAGE_SENT" = "Mensaje enviado";
 "FORCE_RECEIPTS_ON_START_TYPING" = "Escribiendo";
@@ -117,7 +117,7 @@
 "MESSAGE_FORWARD_LABEL" = "Reenviar mensaje";
 "MESSAGE_FORWARD_NO_CONTACTS_MESSAGE" = "Contactos no selecionados";
 "MESSAGE_FORWARD_BUTTON_TITLE" = "Enviado";
-"FORWARD_%zd_MESSAGE_TO_%zd_CONTACT" = "Eviado %zd mensaje a %zd contacto.";
+"FORWARD_%zd_MESSAGE_TO_%zd_CONTACT" = "Enviado %zd mensaje a %zd contacto.";
 
 "BROADCAST_MESSAGE_INDICATOR_DESC" = "Añade un icono junto a los contactos de que los mensajes se envían a usted a través de difusión, para ayudar a que se diferencien de que los mensajes se envían directamente solo a usted.";
 "BROADCAST_MESSAGE_INDICATOR_LABEL" = "Indicador de mensaje de difusión";
@@ -376,9 +376,9 @@
 "ENABLE_APP_TINTCOLOR_LABEL" = "Habilitar el color del tinte de la aplicación";
 "APP_TINTCOLOR_LABEL" = "Color del tinte de la aplicación";
 
-"MESSAGES_TEXT_COLORS_TITLE" = "Messages Text Colors";
-"MESSAGES_BACKGROUND_COLORS_TITLE" = "Messages Background Colors";
-"MESSAGES_STATUS_COLORS_TITLE" = "Messages Status Items";
+"MESSAGES_TEXT_COLORS_TITLE" = "Color título mensajes texto";
+"MESSAGES_BACKGROUND_COLORS_TITLE" = "Color título fondo mensajes";
+"MESSAGES_STATUS_COLORS_TITLE" = "Color título mensaje Status";
 
 "ENABLE_FONT_STYLE_LABEL" = "Habilitar estilo de fuente";
 
